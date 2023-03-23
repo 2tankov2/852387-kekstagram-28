@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм»
 
 * Студент: [Татьяна Смирнова](https://up.htmlacademy.ru/javascript/28/user/852387).
-* Наставник: `Неизвестно`.
+* Наставник: [Елена Грицук](https://up.htmlacademy.ru/profession/fullstack/5/javascript/user/199079).
 
 ---
 
